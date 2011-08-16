@@ -3,7 +3,7 @@ package armada.gyte.concurrency.skiplist;
 import java.util.concurrent.atomic.AtomicMarkableReference;
 
 /**
- * Created by IntelliJ IDEA.
+ *
  * User: ELESSAR
  * Date: 06.04.2011
  * Time: 00:41
