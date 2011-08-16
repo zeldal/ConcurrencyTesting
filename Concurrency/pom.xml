@@ -10,5 +10,11 @@
     <name>Concurrency Thesis</name>
     <description>This is just for Testing purposes</description>
 
+    <developers>
+        <developer>
+            <name>ELESSAR</name>
+        </developer>
+    </developers>
+
     
 </project>
